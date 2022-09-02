@@ -1,6 +1,6 @@
 ### Hi there, I'm Shreyash Mall 👋
 
-I am a Bachleor of Technology studentin Computer Science and Engineering at [VIT Bhopal University](https://vitbhopal.ac.in/). Apart from that I am seasonal ML developer that loves writing clean algorithms on real world problems and contributing to open source.
+I am a Bachleor of Technology student in Computer Science and Engineering at [VIT Bhopal University](https://vitbhopal.ac.in/). Apart from that I am seasonal ML developer that loves writing clean algorithms on real world problems and contributing to open source.
 
 - 💻 Currently working on Crack Dectection Algorithms, which aims to find cracks in the images of ship hulls.
 - 👨🏽‍💻 Currently growing my skillset in Machine Learning and Python.
